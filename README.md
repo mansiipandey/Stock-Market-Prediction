@@ -1,10 +1,10 @@
-📈 Stock Market Prediction Using Machine Learning 
+##Stock Market Prediction Using Machine Learning 
 
 Welcome to the Stock Market Prediction Using Machine Learning project — a smart financial analytics system designed to predict stock market trends using the power of AI, Machine Learning, and Data Science.
 
 This project goes beyond traditional stock analysis by combining historical market data, financial indicators, news sentiment, and social media trends to forecast future stock price movements with greater intelligence and accuracy.
 
-🌟 Project Overview
+Project Overview
 
 The stock market is highly dynamic and influenced by multiple factors such as:
 
