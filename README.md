@@ -8,10 +8,10 @@ This project goes beyond traditional stock analysis by combining historical mark
 
 The stock market is highly dynamic and influenced by multiple factors such as:
 
-📊 Historical stock prices
-📰 Financial news and global events
-💬 Public sentiment on social media
-💹 Economic and market indicators
+🔹Historical stock prices
+🔹Financial news and global events
+🔹Public sentiment on social media
+🔹Economic and market indicators
 
 This project uses Machine Learning algorithms to analyze these factors and identify hidden patterns in market behavior. The goal is to assist investors, traders, and analysts in making smarter and more informed investment decisions.
 
